@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+section{
+    display: flex;
+    align-self: center;
+}
+
+.main_page{
+    height: 100vh;
+    width: 100vw;
+    background-color: antiquewhite;
+    display: flex;
+}
+
+.text{
+    color: rgb(23, 12, 2);
+    font-family: 'IBM Plex Mono', monospace;
+    align-self: center;
+    margin: auto;
+    font-size: 3em;
+    font-weight: 600;
+}
