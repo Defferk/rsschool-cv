@@ -4,7 +4,7 @@
 
 ### Mu contact:
 
-- **Email** <poctadlatehnikuma@gmail.com>
+- **Email** <a.dobryetsov@gmail.com>
 - **Diskord** Defferk#0314
 
 ### About Myself:
